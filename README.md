@@ -7,8 +7,6 @@ All are welcome: current, past, prospective members, and friends of WS-DL ([@Web
 
 Join us at: https://odu.zoom.us/j/91755371970
 
-(names and titles from last year left as a placeholder, they'll be replaced as PRs come in.)
-
 | Time  | Presentation |
 | --- | --- |
 | 2:00  | Welcome and brief faculty intro ([Nelson](https://twitter.com/phonedude_mln), [Weigle](https://twitter.com/weiglemc), [Wu](https://twitter.com/fanchyna), [Jayarathna](https://twitter.com/openmaze), [Ashok](https://twitter.com/vikas_daveb), [Poursardar](https://twitter.com/Faryane))  |
