@@ -5,7 +5,7 @@
 
 All are welcome: current, past, prospective members, and friends of WS-DL ([@WebSciDL](https://twitter.com/WebSciDL)).  Be sure to check out the [2022](https://github.com/oduwsdl/2022-research-expo/) and [2021](https://github.com/oduwsdl/2021-research-expo/) Research Expos.
 
-Zoom link will be posted here soon. 
+Join us at: https://odu.zoom.us/j/91755371970
 
 (names and titles from last year left as a placeholder, they'll be replaced as PRs come in.)
 
