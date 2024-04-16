@@ -7,7 +7,7 @@ All are welcome: current, past, prospective members, and friends of WS-DL ([@Web
 
 Youtube recording of the presentations: [https://www.youtube.com/watch?v=v01Ftofw_sU](https://www.youtube.com/watch?v=F8p91atRymM)
 
-WS-DL Blog: [[https://ws-dl.blogspot.com/2022/04/2022-04-23-2022-ws-dl-research-expo.html](https://ws-dl.blogspot.com/2023/05/2023-05-29-2023-ws-dl-research-expo.html)](https://ws-dl.blogspot.com/2023/05/2023-05-29-2023-ws-dl-research-expo.html)
+WS-DL Blog: [https://ws-dl.blogspot.com/2022/04/2022-04-23-2022-ws-dl-research-expo.html](https://ws-dl.blogspot.com/2023/05/2023-05-29-2023-ws-dl-research-expo.html)](https://ws-dl.blogspot.com/2023/05/2023-05-29-2023-ws-dl-research-expo.html)
 
 | Time  | Presentation |
 | --- | --- |
